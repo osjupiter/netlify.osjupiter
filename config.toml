@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://osjupiter.netlify.com"
 languageCode = "jp"
 title = "くらうる谷 雑記帳"
 theme = "hugo-cards"
