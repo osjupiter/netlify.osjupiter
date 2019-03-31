@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+languageCode = "jp"
+title = "くらうる谷 雑記帳"
+theme = "hugo-cards"
+paginate = 6
+paginatePath = "posts"
+
+[params]
+# builtBy = "bool"
+  defaultImage = "gopher.jpg"
+
+# facebook = ""
+# quora = ""
+  twitter = "http://twitter.com/o_sama3"
+  github = "http://github.com/osjupiter"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+# [params.copyright]
+#    name = "bool"
+#    link = "https://bool.netlify.com"
