@@ -20,7 +20,7 @@ paginatePath = "posts"
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = ""
+  analytics = "UA-121791874-2"
   disqus = ""
 
 # [params.copyright]
