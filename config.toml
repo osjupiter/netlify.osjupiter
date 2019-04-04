@@ -26,3 +26,5 @@ paginatePath = "posts"
 # [params.copyright]
 #    name = "bool"
 #    link = "https://bool.netlify.com"
+[author]
+  name = "osjupiter"
